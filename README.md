@@ -5,6 +5,9 @@ BERT stands for Bidirectional Encoder Representations from Transformers. It is d
 
 The best part about BERT is that we can use the BERT models to extract high quality language features from our text data.
 
+# Objective
+Predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0
+
 Each sample in the train and test set has the following information:
 The text of a tweet
 A keyword from that tweet (although this may be blank!)
